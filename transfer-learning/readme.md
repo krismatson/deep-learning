@@ -1,4 +1,4 @@
-We'll be using a pretrained network from https://github.com/machrisaa/tensorflow-vgg. Make sure you clone this repository into the transfer-learning directory.
+We'll be using a pretrained network from https://github.com/machrisaa/tensorflow-vgg. Make sure you clone this repository into the transfer-learning directory if it is empty to start. 
 ```
 cd  transfer-learning
 git clone https://github.com/machrisaa/tensorflow-vgg.git tensorflow_vgg
